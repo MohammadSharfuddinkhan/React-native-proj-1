@@ -1,1 +1,0 @@
-# React-native-proj-1
